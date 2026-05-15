@@ -64,4 +64,4 @@ Building production AI systems, shipping personal projects, and selectively taki
 
 If you're working on something in agentic systems, cognitive pipelines, or AI developer experience and want to talk through the architecture, feel free to reach out.
 
-[Email](mailto:kuli.singh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kulwindersingh/)
+[Email](mailto:kuli.singh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kulisingh/)
